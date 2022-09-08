@@ -1,4 +1,4 @@
-# Hello world buttons
+# Hello World Buttons
 
 This code was a homework to make 4 buttons.
 each time one of each hello world is presses a log will be printed in terminal.
