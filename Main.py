@@ -63,7 +63,7 @@ class MyGridLayout(GridLayout):
         gender = self.gender.text
         # print output inside the program!
         self.add_widget(Label(
-            text=f"Hello {name} You are already {age} years old and you are a {gender}! and you are a Cunt!"))
+            text=f"Hello {name} You are already {age} years old and you are a {gender}!"))
         # print the output in terminal
         print(
             f"Hello {name} You are already {age} years old and you are a {gender}!")
